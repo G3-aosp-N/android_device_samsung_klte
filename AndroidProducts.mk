@@ -15,6 +15,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_klte.mk \
-    $(LOCAL_DIR)/full_klte.mk
+    $(LOCAL_DIR)/aosp_klte.mk
+#    $(LOCAL_DIR)/full_klte.mk
 
